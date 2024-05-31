@@ -1,6 +1,6 @@
 # Project Overview
 
-This project involves analyzing a sizable sales dataset to glean insightful information and using the Titanic dataset to build a survival prediction model. The goal is to identify patterns, best-selling items, and revenue indicators to help in business decision-making and to predict whether a passenger on the Titanic survived or not.
+ The goal is to identify patterns, best-selling items, and revenue indicators to help in business decision-making and to predict whether a passenger on the Titanic survived or not.
 
 ## Part 1: Sales Data Analysis
 
@@ -81,6 +81,8 @@ print(best_selling_products)
 
 ## Part 2: Titanic Survival Prediction
 
+# Project Overview
+This project  involves analyzing a sizable sales dataset to glean insightful information and using the Titanic dataset to build a survival prediction model.
 ### Goal
 
 Use the Titanic dataset to build a model that predicts whether a passenger on the Titanic survived or not.
